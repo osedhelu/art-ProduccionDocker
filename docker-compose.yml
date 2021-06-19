@@ -8,14 +8,14 @@ services:
     ports:
       - "3000:9850"
     environment:
-      - IP_FRONTEND="http://192.168.10.59:3389"
+      - IP_FRONTEND=http://192.168.10.34:8001
       - PORT=9850
       - LOCALHOST="0.0.0.0"
-      - HOST_DB1="190.85.54.78"
-      - HOST_DB="192.168.10.11"
-      - NAME_DB="ARTDECON"
-      - PASS_DB="sql2017EXadmin"
-      - USER_DB="sa"
+      - HOST_DB1=190.85.54.78
+      - HOST_DB=192.168.10.11
+      - NAME_DB=ARTDECON
+      - PASS_DB=sql2017EXadmin
+      - USER_DB=sa
       - PORT_DB=9899
       - SEED_TOKEN="esta_es_la_mama_de_las_comtraseñas_lista_para_no_dejar_pasar_a_nafien"
       - APIKEY="9e86ca80d2834a6096bf9bc5e2066f07"
@@ -26,9 +26,9 @@ services:
     volumes:
       - ./frontend:/usr/share/nginx/html:ro
     ports:
-      - "8001:80"
+      - "4800:80"
     environment:
-      - URLAPI=http://192.168.10.34:9850/api
+      - URLAPI=http://192.168.10.34:3000/api
       - SOCKER=http://192.168.10.34:9851
       - URLAPI=http://192.168.10.34:6516
       - NGINX_HOST=foobar.com

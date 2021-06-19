@@ -1,0 +1,63 @@
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 18:43:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 18:44:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 18:47:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 18:47:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 18:48:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 18:48:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 18:54:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 18:54:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 18:56:00',
+  label: undefined,
+  metadata: {}
+}
