@@ -1,0 +1,91 @@
+{
+  message: 'Servidor Corriendo en el puerto undefined',
+  level: 'info',
+  timestamp: '2021-06-19 15:26:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 15:31:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 15:43:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 16:04:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 16:41:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 16:41:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 16:42:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 16:44:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 16:56:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 16:58:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"cedula":"1127579854","password":"11223344"}',
+  level: 'error',
+  timestamp: '2021-06-19 16:58:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 16:59:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"cedula":"1127579854","password":"11223344"}',
+  level: 'error',
+  timestamp: '2021-06-19 16:59:49',
+  label: undefined,
+  metadata: {}
+}
