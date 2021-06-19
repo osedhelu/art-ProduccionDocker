@@ -20,7 +20,7 @@ const cors = (app) => {
         next();
     });
     app.use(express_1.json());
-    app.use(body_parser_1.default.urlencoded({ extended: false }));
+    app.use(body_parser_1.default.urlencoded({ extended: true }));
     app.use(body_parser_1.default.json());
 };
 exports.cors = cors;

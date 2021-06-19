@@ -15,11 +15,12 @@
             "description": "PC local",
             "variables": {
                 "username": {
-                    "default": "192.168.10.59",
+                    "enum": ["192.168.10.13", "192.168.10.34"],
+                    "default": "192.168.10.13",
                     "description": "this value is assigned by the service provider, in this example `gigantic-server.com`"
                 },
                 "port": {
-                    "enum": ["9850", "443"],
+                    "enum": ["9850", "443", "3000"],
                     "default": "9850"
                 },
                 "basePath": {
@@ -100,6 +101,17 @@
                             }
                         }
                     }
+                },
+                "requestBody": {
+                    "description": "Obtener token de un usuario",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/Empresa"
+                            }
+                        }
+                    },
+                    "required": true
                 }
             }
         },
@@ -214,6 +226,19 @@
                 },
                 "xml": {
                     "name": "User"
+                }
+            },
+            "Empresa": {
+                "type": "object",
+                "properties": {
+                    "action": {
+                        "type": "string",
+                        "default": "get_empresa"
+                    },
+                    "pass": {
+                        "type": "string",
+                        "default": ""
+                    }
                 }
             },
             "body": {
