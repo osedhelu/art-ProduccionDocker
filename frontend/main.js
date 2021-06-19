@@ -2410,7 +2410,7 @@ AppInfoService.ɵprov = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineIn
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "env", function() { return env; });
 const env = {
-    url1: 'http://192.168.10.34:3000/api',
+    url1: 'http://190.85.45.78:3000/api',
     socket: 'http://192.168.10.34:9851',
     urlNET: 'http://190.85.54.78:4800',
 };
