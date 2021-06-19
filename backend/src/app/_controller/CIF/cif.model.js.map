@@ -1,0 +1,1 @@
+{"version":3,"file":"cif.model.js","sourceRoot":"","sources":["../../../../../src/app/_controller/CIF/cif.model.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,gDAA8C;AAG9C,MAAa,QAAQ;IAArB;QACU,OAAE,GAAG,IAAI,oBAAS,EAAE,CAAC;IAI/B,CAAC;IAHO,IAAI,CAAC,IAAS;;YAClB,OAAO,MAAM,IAAI,CAAC,EAAE,CAAC,UAAU,CAAC,EAAE,MAAM,EAAE,QAAQ,EAAE,IAAI,EAAE,CAAC,CAAC;QAC9D,CAAC;KAAA;CACF;AALD,4BAKC"}

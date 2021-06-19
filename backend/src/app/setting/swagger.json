@@ -1,0 +1,257 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "1.0.0",
+        "title": "API ARTDECON",
+        "description": "api de backend en el lado del servidor",
+        "license": {
+            "name": "MIT",
+            "url": "http://artdecon.com"
+        }
+    },
+    "servers": [
+        {
+            "url": "{protocol}://{username}:{port}/{basePath}",
+            "description": "PC local",
+            "variables": {
+                "username": {
+                    "default": "192.168.10.59",
+                    "description": "this value is assigned by the service provider, in this example `gigantic-server.com`"
+                },
+                "port": {
+                    "enum": ["9850", "443"],
+                    "default": "9850"
+                },
+                "basePath": {
+                    "default": "api"
+                },
+                "protocol": {
+                    "enum": ["http", "https"],
+                    "default": "http"
+                }
+            }
+        }
+    ],
+    "tags": [
+        { "name": "login", "description": "inicio de seccion" },
+        {
+            "name": "Empresas",
+            "description": "Veremos toda la informacion de las empresas"
+        },
+        {
+            "name": "Bases del costo",
+            "description": "Bases del costo"
+        },
+        {
+            "name": "secciones",
+            "description": "Api de secciones"
+        },
+        {
+            "name": "CIF",
+            "description": "Api de CIF"
+        },
+        {
+            "name": "file",
+            "description": "Esta es para listar las imagenes"
+        }
+    ],
+    "paths": {
+        "/login": {
+            "post": {
+                "tags": ["login"],
+                "description": "Iniciar Seccion",
+                "responses": {
+                    "200": {
+                        "description": "token",
+                        "content": {
+                            "aplicacion/json": {
+                                "schema": {
+                                    "type": "array"
+                                }
+                            }
+                        }
+                    }
+                },
+                "requestBody": {
+                    "description": "Obtener token de un usuario",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/User"
+                            }
+                        }
+                    },
+                    "required": true
+                }
+            }
+        },
+        "/empresas": {
+            "post": {
+                "tags": ["Empresas"],
+                "description": "Listar todas las empresas",
+                "responses": {
+                    "200": {
+                        "description": "Listar las Empresas",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/file": {
+            "get": {
+                "tags": ["file"],
+                "description": "Listar todas las empresas",
+                "responses": {
+                    "200": {
+                        "description": "Listar las Empresas",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/bcostos/dominios": {
+            "get": {
+                "tags": ["Bases del costo"],
+                "description": "Listar",
+                "responses": {
+                    "200": {
+                        "description": "Todos los dominios",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "TOKEN": []
+                    }
+                ]
+            }
+        },
+        "/admin": {},
+        "/dominios": {},
+        "/aplication": {},
+        "/cif": {
+            "get": {
+                "tags": ["CIF"],
+                "responses": {
+                    "200": {
+                        "description": "arbol de secciones ",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "TOKEN": []
+                    }
+                ]
+            }
+        },
+        "/manoObra": {},
+        "/seccion": {
+            "get": {
+                "tags": ["secciones"],
+                "description": "Listar",
+                "responses": {
+                    "200": {
+                        "description": "arbol de secciones ",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "TOKEN": []
+                    }
+                ]
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "User": {
+                "type": "object",
+                "properties": {
+                    "cedula": {
+                        "type": "string",
+                        "default": "1127579854"
+                    },
+                    "password": {
+                        "type": "string",
+                        "default": "11223344"
+                    },
+                    "code_empresa": {
+                        "type": "string",
+                        "default": "00"
+                    }
+                },
+                "xml": {
+                    "name": "User"
+                }
+            },
+            "body": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "Updated name of the pet"
+                    },
+                    "status": {
+                        "type": "string",
+                        "description": "Updated status of the pet"
+                    }
+                }
+            }
+        },
+        "requestBodies": {
+            "UserArray": {
+                "description": "List of user object",
+                "content": {
+                    "application/json": {
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/components/schemas/User"
+                            }
+                        }
+                    }
+                },
+                "required": true
+            }
+        },
+        "securitySchemes": {
+            "TOKEN": {
+                "type": "apiKey",
+                "name": "token",
+                "in": "header"
+            }
+        }
+    }
+}
