@@ -6,7 +6,7 @@ services:
       - ./backend:/usr/app/
       - /usr/app/node_modules
     ports:
-      - "3000:9850"
+      - "3577:9850"
     environment:
       - IP_FRONTEND=http://192.168.10.34:8001
       - PORT=9850

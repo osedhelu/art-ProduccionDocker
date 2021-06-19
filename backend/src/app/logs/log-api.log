@@ -61,3 +61,411 @@
   label: undefined,
   metadata: {}
 }
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 19:20:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 19:24:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 19:26:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Connection Failed',
+  level: 'error',
+  timestamp: '2021-06-19 19:38:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'uncaughtException: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+    'ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+    '    at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)\n' +
+    '    at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)\n' +
+    '    at /usr/app/node_modules/tedious/lib/connection.js:1116:21\n' +
+    '    at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)\n' +
+    '    at Socket.emit (node:events:394:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:193:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:158:3)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:83:21)',
+  level: 'error',
+  timestamp: '2021-06-19 19:40:16',
+  label: undefined,
+  metadata: {
+    error: ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899
+        at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)
+        at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)
+        at /usr/app/node_modules/tedious/lib/connection.js:1116:21
+        at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)
+        at Socket.emit (node:events:394:28)
+        at emitErrorNT (node:internal/streams/destroy:193:8)
+        at emitErrorCloseNT (node:internal/streams/destroy:158:3)
+        at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+      code: 'ESOCKET'
+    },
+    stack: 'ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+      '    at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)\n' +
+      '    at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)\n' +
+      '    at /usr/app/node_modules/tedious/lib/connection.js:1116:21\n' +
+      '    at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)\n' +
+      '    at Socket.emit (node:events:394:28)\n' +
+      '    at emitErrorNT (node:internal/streams/destroy:193:8)\n' +
+      '    at emitErrorCloseNT (node:internal/streams/destroy:158:3)\n' +
+      '    at processTicksAndRejections (node:internal/process/task_queues:83:21)',
+    exception: true,
+    date: 'Sat Jun 19 2021 19:40:16 GMT+0000 (Coordinated Universal Time)',
+    process: {
+      pid: 1,
+      uid: 0,
+      gid: 0,
+      cwd: '/usr/app',
+      execPath: '/usr/local/bin/node',
+      version: 'v16.3.0',
+      argv: [ '/usr/local/bin/node', '/usr/app/src', 'index.js' ],
+      memoryUsage: {
+        rss: 76947456,
+        heapTotal: 24993792,
+        heapUsed: 22860072,
+        external: 1048365,
+        arrayBuffers: 146262
+      }
+    },
+    os: { loadavg: [ 0.28, 0.26, 0.24 ], uptime: 800894.01 },
+    trace: [
+      {
+        column: 12,
+        file: '/usr/app/node_modules/tedious/lib/errors.js',
+        function: 'ConnectionError',
+        line: 13,
+        method: null,
+        native: false
+      },
+      {
+        column: 54,
+        file: '/usr/app/node_modules/tedious/lib/connection.js',
+        function: 'Connection.socketError',
+        line: 1294,
+        method: 'socketError',
+        native: false
+      },
+      {
+        column: 21,
+        file: '/usr/app/node_modules/tedious/lib/connection.js',
+        function: null,
+        line: 1116,
+        method: null,
+        native: false
+      },
+      {
+        column: 7,
+        file: '/usr/app/node_modules/tedious/lib/connector.js',
+        function: 'Socket.onError',
+        line: 140,
+        method: 'onError',
+        native: false
+      },
+      {
+        column: 28,
+        file: 'node:events',
+        function: 'Socket.emit',
+        line: 394,
+        method: 'emit',
+        native: false
+      },
+      {
+        column: 8,
+        file: 'node:internal/streams/destroy',
+        function: 'emitErrorNT',
+        line: 193,
+        method: null,
+        native: false
+      },
+      {
+        column: 3,
+        file: 'node:internal/streams/destroy',
+        function: 'emitErrorCloseNT',
+        line: 158,
+        method: null,
+        native: false
+      },
+      {
+        column: 21,
+        file: 'node:internal/process/task_queues',
+        function: 'processTicksAndRejections',
+        line: 83,
+        method: null,
+        native: false
+      }
+    ]
+  }
+}
+{
+  message: 'uncaughtException: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+    'ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+    '    at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)\n' +
+    '    at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)\n' +
+    '    at /usr/app/node_modules/tedious/lib/connection.js:1116:21\n' +
+    '    at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)\n' +
+    '    at Socket.emit (node:events:394:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:193:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:158:3)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:83:21)',
+  level: 'error',
+  timestamp: '2021-06-19 19:40:16',
+  label: undefined,
+  metadata: {
+    error: ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899
+        at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)
+        at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)
+        at /usr/app/node_modules/tedious/lib/connection.js:1116:21
+        at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)
+        at Socket.emit (node:events:394:28)
+        at emitErrorNT (node:internal/streams/destroy:193:8)
+        at emitErrorCloseNT (node:internal/streams/destroy:158:3)
+        at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+      code: 'ESOCKET'
+    },
+    stack: 'ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+      '    at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)\n' +
+      '    at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)\n' +
+      '    at /usr/app/node_modules/tedious/lib/connection.js:1116:21\n' +
+      '    at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)\n' +
+      '    at Socket.emit (node:events:394:28)\n' +
+      '    at emitErrorNT (node:internal/streams/destroy:193:8)\n' +
+      '    at emitErrorCloseNT (node:internal/streams/destroy:158:3)\n' +
+      '    at processTicksAndRejections (node:internal/process/task_queues:83:21)',
+    exception: true,
+    date: 'Sat Jun 19 2021 19:40:16 GMT+0000 (Coordinated Universal Time)',
+    process: {
+      pid: 1,
+      uid: 0,
+      gid: 0,
+      cwd: '/usr/app',
+      execPath: '/usr/local/bin/node',
+      version: 'v16.3.0',
+      argv: [ '/usr/local/bin/node', '/usr/app/src', 'index.js' ],
+      memoryUsage: {
+        rss: 77053952,
+        heapTotal: 24993792,
+        heapUsed: 22943544,
+        external: 1052805,
+        arrayBuffers: 150662
+      }
+    },
+    os: { loadavg: [ 0.28, 0.26, 0.24 ], uptime: 800894.02 },
+    trace: [
+      {
+        column: 12,
+        file: '/usr/app/node_modules/tedious/lib/errors.js',
+        function: 'ConnectionError',
+        line: 13,
+        method: null,
+        native: false
+      },
+      {
+        column: 54,
+        file: '/usr/app/node_modules/tedious/lib/connection.js',
+        function: 'Connection.socketError',
+        line: 1294,
+        method: 'socketError',
+        native: false
+      },
+      {
+        column: 21,
+        file: '/usr/app/node_modules/tedious/lib/connection.js',
+        function: null,
+        line: 1116,
+        method: null,
+        native: false
+      },
+      {
+        column: 7,
+        file: '/usr/app/node_modules/tedious/lib/connector.js',
+        function: 'Socket.onError',
+        line: 140,
+        method: 'onError',
+        native: false
+      },
+      {
+        column: 28,
+        file: 'node:events',
+        function: 'Socket.emit',
+        line: 394,
+        method: 'emit',
+        native: false
+      },
+      {
+        column: 8,
+        file: 'node:internal/streams/destroy',
+        function: 'emitErrorNT',
+        line: 193,
+        method: null,
+        native: false
+      },
+      {
+        column: 3,
+        file: 'node:internal/streams/destroy',
+        function: 'emitErrorCloseNT',
+        line: 158,
+        method: null,
+        native: false
+      },
+      {
+        column: 21,
+        file: 'node:internal/process/task_queues',
+        function: 'processTicksAndRejections',
+        line: 83,
+        method: null,
+        native: false
+      }
+    ]
+  }
+}
+{
+  message: 'uncaughtException: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+    'ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+    '    at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)\n' +
+    '    at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)\n' +
+    '    at /usr/app/node_modules/tedious/lib/connection.js:1116:21\n' +
+    '    at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)\n' +
+    '    at Socket.emit (node:events:394:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:193:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:158:3)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:83:21)',
+  level: 'error',
+  timestamp: '2021-06-19 19:40:16',
+  label: undefined,
+  metadata: {
+    error: ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899
+        at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)
+        at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)
+        at /usr/app/node_modules/tedious/lib/connection.js:1116:21
+        at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)
+        at Socket.emit (node:events:394:28)
+        at emitErrorNT (node:internal/streams/destroy:193:8)
+        at emitErrorCloseNT (node:internal/streams/destroy:158:3)
+        at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+      code: 'ESOCKET'
+    },
+    stack: 'ConnectionError: Connection lost - connect ETIMEDOUT 190.85.54.78:9899\n' +
+      '    at ConnectionError (/usr/app/node_modules/tedious/lib/errors.js:13:12)\n' +
+      '    at Connection.socketError (/usr/app/node_modules/tedious/lib/connection.js:1294:54)\n' +
+      '    at /usr/app/node_modules/tedious/lib/connection.js:1116:21\n' +
+      '    at Socket.onError (/usr/app/node_modules/tedious/lib/connector.js:140:7)\n' +
+      '    at Socket.emit (node:events:394:28)\n' +
+      '    at emitErrorNT (node:internal/streams/destroy:193:8)\n' +
+      '    at emitErrorCloseNT (node:internal/streams/destroy:158:3)\n' +
+      '    at processTicksAndRejections (node:internal/process/task_queues:83:21)',
+    exception: true,
+    date: 'Sat Jun 19 2021 19:40:16 GMT+0000 (Coordinated Universal Time)',
+    process: {
+      pid: 1,
+      uid: 0,
+      gid: 0,
+      cwd: '/usr/app',
+      execPath: '/usr/local/bin/node',
+      version: 'v16.3.0',
+      argv: [ '/usr/local/bin/node', '/usr/app/src', 'index.js' ],
+      memoryUsage: {
+        rss: 77053952,
+        heapTotal: 24993792,
+        heapUsed: 23013152,
+        external: 1057181,
+        arrayBuffers: 155038
+      }
+    },
+    os: { loadavg: [ 0.28, 0.26, 0.24 ], uptime: 800894.02 },
+    trace: [
+      {
+        column: 12,
+        file: '/usr/app/node_modules/tedious/lib/errors.js',
+        function: 'ConnectionError',
+        line: 13,
+        method: null,
+        native: false
+      },
+      {
+        column: 54,
+        file: '/usr/app/node_modules/tedious/lib/connection.js',
+        function: 'Connection.socketError',
+        line: 1294,
+        method: 'socketError',
+        native: false
+      },
+      {
+        column: 21,
+        file: '/usr/app/node_modules/tedious/lib/connection.js',
+        function: null,
+        line: 1116,
+        method: null,
+        native: false
+      },
+      {
+        column: 7,
+        file: '/usr/app/node_modules/tedious/lib/connector.js',
+        function: 'Socket.onError',
+        line: 140,
+        method: 'onError',
+        native: false
+      },
+      {
+        column: 28,
+        file: 'node:events',
+        function: 'Socket.emit',
+        line: 394,
+        method: 'emit',
+        native: false
+      },
+      {
+        column: 8,
+        file: 'node:internal/streams/destroy',
+        function: 'emitErrorNT',
+        line: 193,
+        method: null,
+        native: false
+      },
+      {
+        column: 3,
+        file: 'node:internal/streams/destroy',
+        function: 'emitErrorCloseNT',
+        line: 158,
+        method: null,
+        native: false
+      },
+      {
+        column: 21,
+        file: 'node:internal/process/task_queues',
+        function: 'processTicksAndRejections',
+        line: 83,
+        method: null,
+        native: false
+      }
+    ]
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 19:52:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 19:53:19',
+  label: undefined,
+  metadata: {}
+}
