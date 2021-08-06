@@ -469,3 +469,2999 @@
   label: undefined,
   metadata: {}
 }
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 20:05:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:05:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-19 20:06:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:06:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:07:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:07:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:11:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:11:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:17:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"1234","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:17:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"1234","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:18:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:18:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-19 20:18:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 13:05:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 15:45:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 15:50:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-21 20:05:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-21 20:07:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 20:07:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 20:12:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 20:12:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 20:48:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 20:48:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 20:48:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 20:55:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 22:41:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{}',
+  level: 'error',
+  timestamp: '2021-06-21 22:41:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 22:41:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Ultima compra","ud_descticcion":"Tomar de la Ultima compra","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 22:41:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 22:41:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 22:41:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 22:57:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 22:59:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624308507,"exp":1624318587}',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624308507,"exp":1624318587}',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-013","USUARIO":"XTEIN","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624308507,"exp":1624318587}',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-06-21 23:00:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:00:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:02:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:02:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:02:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getAllEmpleados', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624308507,"exp":1624318587}',
+  level: 'info',
+  timestamp: '2021-06-21 23:04:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-21 23:04:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-013","USUARIO":"XTEIN","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624308507,"exp":1624318587}',
+  level: 'info',
+  timestamp: '2021-06-21 23:04:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-21 23:04:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-21 23:04:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-21 23:04:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-24 19:27:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-24 19:28:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-24 19:28:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-06-25 15:40:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:40:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:41:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:41:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624635708,"exp":1624645788}',
+  level: 'info',
+  timestamp: '2021-06-25 15:41:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:41:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 15:41:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-013","USUARIO":"XTEIN","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:41:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Rutas de partes"}]}',
+  level: 'info',
+  timestamp: '2021-06-25 15:42:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-06-25 15:42:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Rutas de partes"}]}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:42:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624635708,"exp":1624645788}',
+  level: 'info',
+  timestamp: '2021-06-25 15:42:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:42:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 15:42:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:42:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-25 15:42:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 15:42:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624650854,"exp":1624660934}',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624650854,"exp":1624660934}',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-013","USUARIO":"XTEIN","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624650854,"exp":1624660934}',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 19:54:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:54:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}',
+  level: 'info',
+  timestamp: '2021-06-25 19:55:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-06-25 19:55:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:55:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":"*99"},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}',
+  level: 'info',
+  timestamp: '2021-06-25 19:56:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-06-25 19:56:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":"*99"},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 19:56:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"JRUTAS_ENC":{"ID_RUTA":"01","DESCRIPCION":"prueba","ESTADO":"ACTIVO","TIPO":"Layout Planta","PRIORIDAD":"","SECCIONES":"{}","ID_RUTA_ANTERIOR":""},"JSECC_ITM":[{"ID_UN":"00","ID_SECCION":"ID010101","ITEM":53,"DESCRIPCION":"Innovación","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""}]}',
+  level: 'info',
+  timestamp: '2021-06-25 20:01:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:new ',
+  level: 'info',
+  timestamp: '2021-06-25 20:01:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'new', '{"JRUTAS_ENC":{"ID_RUTA":"01","DESCRIPCION":"prueba","ESTADO":"ACTIVO","TIPO":"Layout Planta","PRIORIDAD":"","SECCIONES":"{}","ID_RUTA_ANTERIOR":""},"JSECC_ITM":[{"ID_UN":"00","ID_SECCION":"ID010101","ITEM":53,"DESCRIPCION":"Innovación","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""}]}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:01:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"JRUTAS_ENC":{"ID_RUTA":"01332","DESCRIPCION":"prueba","ESTADO":"ACTIVO","TIPO":"Layout Planta","PRIORIDAD":"","SECCIONES":"{}","ID_RUTA_ANTERIOR":""},"JSECC_ITM":[{"ID_UN":"00","ID_SECCION":"ID010101","ITEM":53,"DESCRIPCION":"Innovación","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""}]}',
+  level: 'info',
+  timestamp: '2021-06-25 20:01:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:new ',
+  level: 'info',
+  timestamp: '2021-06-25 20:01:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'new', '{"JRUTAS_ENC":{"ID_RUTA":"01332","DESCRIPCION":"prueba","ESTADO":"ACTIVO","TIPO":"Layout Planta","PRIORIDAD":"","SECCIONES":"{}","ID_RUTA_ANTERIOR":""},"JSECC_ITM":[{"ID_UN":"00","ID_SECCION":"ID010101","ITEM":53,"DESCRIPCION":"Innovación","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""}]}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:01:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL02","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL04","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL03","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:02:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL02","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL03","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL04","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL02","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL0101","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL0102","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL010202","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL010203","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL04","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getAllEmpleados', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:03:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624650854,"exp":1624660934}',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624650854,"exp":1624660934}',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-013","USUARIO":"XTEIN","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624650854,"exp":1624660934}',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-06-25 20:04:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:04:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:06:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1624650854,"exp":1624660934}',
+  level: 'info',
+  timestamp: '2021-06-25 20:06:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-06-25 20:06:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-013","USUARIO":"XTEIN","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:06:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:13:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:13:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:13:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:13:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-06-25 20:13:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-07-01 16:14:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:15:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{}',
+  level: 'error',
+  timestamp: '2021-07-01 16:16:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Ultima compra","ud_descticcion":"Tomar de la Ultima compra","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Kardex","ud_descticcion":"Tomar del Kardex","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Ultima compra","ud_descticcion":"Tomar de la Ultima compra","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Lista de precios","ud_descticcion":"Tomar de la Lista de precios","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Ultima compra","ud_descticcion":"Tomar de la Ultima compra","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Kardex","ud_descticcion":"Tomar del Kardex","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:16:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:17:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 16:19:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 18:56:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 18:59:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-01 19:00:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-02 14:17:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9850',
+  level: 'info',
+  timestamp: '2021-07-12 14:09:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-12 14:09:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-12 20:47:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-12 20:50:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-12 20:50:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-12 20:50:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:35:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:36:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:36:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:36:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:36:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"98494","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"s5fs6d1f","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"98494","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"s5fs6d1f","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"s5fs6d1f","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"98494","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"s5fs6d1f","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"s5fs6d1f","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"98494","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:38:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:39:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"s5fs6d1f","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:39:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"856511","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:39:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:40:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:40:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"98494","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:48:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:49:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:49:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1626269763,"exp":1626279843}',
+  level: 'info',
+  timestamp: '2021-07-14 13:49:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-07-14 13:49:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:49:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-07-14 13:49:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:49:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}',
+  level: 'info',
+  timestamp: '2021-07-14 13:50:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-07-14 13:50:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:50:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"JRUTAS_ENC":{"ID_RUTA":"1444","DESCRIPCION":"fgdgfg","ESTADO":"ACTIVO","TIPO":"Layout Planta","PRIORIDAD":"","SECCIONES":"{}","ID_RUTA_ANTERIOR":""},"JSECC_ITM":[{"ID_UN":"00","ID_SECCION":"ID010101","ITEM":53,"DESCRIPCION":"Innovación","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""},{"ID_UN":"00","ID_SECCION":"ID010102","ITEM":10010,"DESCRIPCION":"Desarrollo","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""}]}',
+  level: 'info',
+  timestamp: '2021-07-14 13:52:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:new ',
+  level: 'info',
+  timestamp: '2021-07-14 13:52:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'new', '{"JRUTAS_ENC":{"ID_RUTA":"1444","DESCRIPCION":"fgdgfg","ESTADO":"ACTIVO","TIPO":"Layout Planta","PRIORIDAD":"","SECCIONES":"{}","ID_RUTA_ANTERIOR":""},"JSECC_ITM":[{"ID_UN":"00","ID_SECCION":"ID010101","ITEM":53,"DESCRIPCION":"Innovación","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""},{"ID_UN":"00","ID_SECCION":"ID010102","ITEM":10010,"DESCRIPCION":"Desarrollo","ANTERIOR":52,"ID_UN_ITEM":"","ASIGNABLE":1,"ESTADO":"ACTIVO","INVENTARIO":1,"TIPO":"OPERATIVA","MANO_OBRA":0,"MSG":""}]}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:52:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}',
+  level: 'info',
+  timestamp: '2021-07-14 13:52:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-07-14 13:52:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:52:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}',
+  level: 'info',
+  timestamp: '2021-07-14 13:52:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-07-14 13:52:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:52:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":"1444"},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}',
+  level: 'info',
+  timestamp: '2021-07-14 13:53:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-07-14 13:53:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":"1444"},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Layout Planta"}]}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:53:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1626269763,"exp":1626279843}',
+  level: 'info',
+  timestamp: '2021-07-14 13:53:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:53:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-07-14 13:53:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-013","USUARIO":"XTEIN","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:53:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Rutas de partes"}]}',
+  level: 'info',
+  timestamp: '2021-07-14 13:54:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:consulta ',
+  level: 'info',
+  timestamp: '2021-07-14 13:54:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'consulta', '{"ITM_RUTAS_PRODUCCION":"","RUTAS_PRODUCCION":[{"CAMPO":"ID_RUTA","EXPRESION":""},{"CAMPO":"DESCRIPCION","EXPRESION":""},{"CAMPO":"TIPO","EXPRESION":"Rutas de partes"}]}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:54:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"XTEIN","CLAVE_SECUNDARIA":"$2a$10$/CvcFTH53hkvJEQMS0hnuebGqJytXbfLRRDUTwKZ0XtHAQaHmqmOq","NOMBRE":"Administrador Xtein","ID_ROL":"ADM","iat":1626269763,"exp":1626279843}',
+  level: 'info',
+  timestamp: '2021-07-14 13:54:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:menu_registro ',
+  level: 'info',
+  timestamp: '2021-07-14 13:54:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'menu_registro', '{"TABLA_BASE":"RUTAS_PRODUCCION","APLICACION":"PRO-012","OPCIONES":"_INI_","Status":"","BNumReg":0,"BTotReg":0,"USUARIO":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:54:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: whildher PROCEDIMIENTO►►►spRutas --->>action:qsecciones ',
+  level: 'info',
+  timestamp: '2021-07-14 13:54:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec spRutas 'qsecciones', '{"FILTRO":""}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:54:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 13:54:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok: false --111>> login',
+  level: 'info',
+  timestamp: '2021-07-14 20:36:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"cedula":"xtein","password":"11223344"}',
+  level: 'error',
+  timestamp: '2021-07-14 20:36:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{}',
+  level: 'error',
+  timestamp: '2021-07-14 20:36:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Kardex","ud_descticcion":"Tomar del Kardex","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Ultima compra","ud_descticcion":"Tomar de la Ultima compra","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Lista de precios","ud_descticcion":"Tomar de la Lista de precios","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Kardex","ud_descticcion":"Tomar del Kardex","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:36:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:37:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:37:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:37:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:37:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getAllEmpleados', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:37:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:38:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:38:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:38:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 20:39:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 21:03:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{}',
+  level: 'error',
+  timestamp: '2021-07-14 22:33:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:33:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:33:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:33:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:33:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:34:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{}',
+  level: 'error',
+  timestamp: '2021-07-14 22:36:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Kardex","ud_descticcion":"Tomar del Kardex","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:36:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01111","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID01","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-14 22:48:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 12:34:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 12:42:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 12:42:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 12:42:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 12:42:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 12:42:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"ID020202","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 14:24:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 14:49:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 14:49:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 15:16:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 15:16:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 19:34:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 19:34:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 19:34:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 19:34:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-15 19:34:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-16 12:35:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-17 13:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-19 12:38:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-21 17:08:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-22 12:35:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-22 14:40:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 12:49:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:49:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:50:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:50:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:50:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:51:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:51:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:51:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-23 20:51:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:21:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:30:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:30:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:33:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:33:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:33:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:33:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:33:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getAllEmpleados', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getAllEmpleados', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getAllEmpleados', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{}',
+  level: 'error',
+  timestamp: '2021-07-24 17:34:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"1127579854"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"code":"Kardex","ud_descticcion":"Tomar del Kardex","udclase":"BASES COSTO","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getAllEmpleados', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'aplicaciones_usr', '{"ID_UN":"00","usuario":"XTEIN"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:34:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL03","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:35:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL04","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:35:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL0201","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:35:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"ID_SECCION":"PL020101","ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:35:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"ID_UN":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:35:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-07-24 17:35:22',
+  label: undefined,
+  metadata: {}
+}
